@@ -6,3 +6,5 @@ Em geral, programas instalados manualmente em sistemas Linux podem ser encontrad
 - `/usr/local/bin/`: Outro local comum para programas instalados localmente.
 - `/opt/`: Alguns programas comerciais ou de terceiros podem ser instalados neste diretório.
 - `/usr/sbin/`
+
+Após ter achado o local do arquivo, execute o script Matador.sh para apagar tudo relacionado ao HP Device Manager
