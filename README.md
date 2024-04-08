@@ -8,3 +8,8 @@ Em geral, programas instalados manualmente em sistemas Linux podem ser encontrad
 - `/usr/sbin/`
 
 Após ter achado o local do arquivo, execute o script Matador.sh para apagar tudo relacionado ao HP Device Manager
+
+´´´
+ls -la | grep .sh # Para ver todas as ocorrências relacionadas a ele
+´´´
+<strong> Após executar, os arquivos relacionados serão desinstalados do seu Linux. Pense adequadamente se deseja executar essa operação
