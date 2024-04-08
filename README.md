@@ -7,9 +7,9 @@ Em geral, programas instalados manualmente em sistemas Linux podem ser encontrad
 - `/opt/`: Alguns programas comerciais ou de terceiros podem ser instalados neste diretório.
 - `/usr/sbin/`
 
-Após ter achado o local do arquivo, execute o script Matador.sh para apagar tudo relacionado ao HP Device Manager
+Após ter localizado o arquivo, execute o script Matador.sh para apagar tudo relacionado ao HP Device Manager:
 
-´´´
+```bash
 ls -la | grep .sh # Para ver todas as ocorrências relacionadas a ele
-´´´
-<strong> Após executar, os arquivos relacionados serão desinstalados do seu Linux. Pense adequadamente se deseja executar essa operação
+```
+Atenção: Após executar este comando, os arquivos relacionados serão desinstalados do seu sistema Linux. Pense adequadamente se deseja executar essa operação.
