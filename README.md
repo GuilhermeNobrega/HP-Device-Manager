@@ -11,5 +11,6 @@ Após ter localizado o arquivo, execute o script Matador.sh para apagar tudo rel
 
 ```bash
 ls -la | grep .sh # Para ver todas as ocorrências relacionadas a ele
+ls | grep hp-
 ```
 Atenção: Após executar este comando, os arquivos relacionados serão desinstalados do seu sistema Linux. Pense adequadamente se deseja executar essa operação.
